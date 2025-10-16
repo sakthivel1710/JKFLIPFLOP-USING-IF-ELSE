@@ -38,11 +38,25 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
+
+<img width="806" height="452" alt="Screenshot 2025-10-16 162317" src="https://github.com/user-attachments/assets/c91cbf8a-69dd-4a4c-9f82-2f2948e55582" />
+
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+
+![WhatsApp Image 2025-10-16 at 16 26 50_c39474cf](https://github.com/user-attachments/assets/08b90c63-5f41-4805-99df-b1bd7dc772c4)
+
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![WhatsApp Image 2025-10-16 at 16 26 49_2682efce](https://github.com/user-attachments/assets/a04644c2-cf25-4805-9268-cbfe0ca7c9cc)
+
+
+
 **RESULTS**
+Thus the basic logic gates are studied and truth table varified
